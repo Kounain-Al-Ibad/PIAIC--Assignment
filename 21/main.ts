@@ -3,7 +3,7 @@ let user = {
     Firname :"Kounain",
     Lasname :"Al Ibad",
     age     :20
-    hobbies :["Overthinking and picking my skin Of course!"],
+    hobbies :["Visiting restaurants and riding bike with pals."],
     salary  : () => 0,
     email   : "",
     adress  : "", 
